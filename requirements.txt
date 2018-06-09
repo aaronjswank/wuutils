@@ -1,0 +1,6 @@
+python-dotenv
+requests
+
+# For Testing
+#flake8
+#pylint
